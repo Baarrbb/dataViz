@@ -48,3 +48,16 @@
 <br>
 
 **Data:** `https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/cyclist-data.json`
+
+
+<br>
+
+<h1 align="center">
+	Heat Map
+</h1>
+<div align="center">
+  <img src="./pic/HeatMap.png" alt="Screen from the Choropleth map">
+</div>
+<br>
+
+**Data:** `https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/global-temperature.json`

@@ -37,3 +37,14 @@
 **Data:** `https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/GDP-data.json`
 
 
+<br>
+
+<h1 align="center">
+	ScatterPlot Graph
+</h1>
+<div align="center">
+  <img src="./pic/ScatterPlotGraph.png" alt="Screen from the Choropleth map">
+</div>
+<br>
+
+**Data:** `https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/cyclist-data.json`
